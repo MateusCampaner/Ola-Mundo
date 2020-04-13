@@ -28,6 +28,30 @@ Lista de Tarefas
 ![Imagem]()
 ***
 [Link](https://github.com/MateusCampaner)
+***
+Num|Nome|Nota
+---|---|---
+1|Mateus|10
+2|Zé|8
+3|Jão|6
+***
+`console.log`
+***
+```
+var num = 2
+if(num == 1){
+true
+} else(num == 2){
+false
+}
+```
+***
+Emoji :joy:
+Emoji :smile:
+***
+>Top
+***
+
 
 
 
