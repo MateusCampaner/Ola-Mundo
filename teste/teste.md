@@ -48,6 +48,7 @@ false
 ***
 Emoji :joy:
 Emoji :smile:
+Emoj :+1:
 ***
 >Top
 ***
